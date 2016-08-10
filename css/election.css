@@ -21,7 +21,7 @@ font-weight: 300;}
 .btn-primary:hover {background:#8D001C;}
 a:hover {text-decoration: none;}
 @media (max-width:500px){
-	.btn-primary {font-size:200%;}
+	.btn-primary {font-size:150%;}
 }
 h1,h2 { color:white; font-family: 'Open Sans', sans-serif; font-size:600%; text-align: center;}
 h2 {font-size:300%;color:#00a9e0;}
